@@ -5,7 +5,7 @@ A module to produce CSS gradients as placeholders for images.
 
 0.1 (beta)
 
-The JS version was quickly written to use as an example on the website, and needs futher work.
+The JS version was quickly written to use as an example on the website, and needs further work.
 The python source also needs some optimization/styling, especially deep cross-browser support and PNG support.
 
 # Getting Started
@@ -42,7 +42,7 @@ FILE (opt) specify a single image file to be used
 
 `-d --dir`
 
-DIR (opt) - specify a directory to be used. If not used (and not -f), current dir will be used. Only files with "jpg" extension will be used.
+DIR (opt) - specify a direcotry to be used. If not used (and not -f), current dir will be used. Only files with "jpg" extension will be used.
 
 Other important notes:
 There are constants you can tweak which will later be flags (Black/White sensitivity, image resolution, uniformness of colors) although generally the default vals are generally best.
